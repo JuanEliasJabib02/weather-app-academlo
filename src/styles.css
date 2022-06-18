@@ -1,0 +1,120 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  
+  text-align: center;
+  border: 3px solid;
+  height: 100vh;
+ 
+}
+
+.card{
+  /* background-image: linear-gradient(to right, red , yellow); */
+  
+  background: linear-gradient(355deg, rgba(185,181,255,1) 0%, rgba(25,233,235,0.9755252442773985) 43%, rgba(41,232,234,0.8102591378348214) 76%);;
+  
+  margin: 0 auto;
+  margin-top:10rem;
+  border: 1px solid black;
+  height: 25rem;
+  width: 40rem;
+  border-radius: 2rem;
+
+}
+
+
+.info{
+  display: flex;
+}
+
+.info h3{
+  width: 25%;
+  margin-left: 2rem;
+  border-radius: 10rem;
+}
+
+.info h3 p{
+  width: fit-content;
+  padding:2rem;
+  color:black;
+  opacity: 0.7;
+  
+  
+}
+.info h2{
+  width: 20rem;
+  margin-top: 5rem;
+  border: 7px solid rgb(60, 0, 128);
+}
+.info button{
+  margin:0 auto;
+  margin-top: 2rem;
+  margin-right: 1rem;
+  width: 10rem;
+  height: 5rem;
+  border: none;
+  border-radius: 10rem;
+  background-color:white;
+  border: solid 1px black;
+  margin-right: 10rem;
+
+}
+
+
+
+
+
+.title{
+  height: 50%;
+}
+
+.weather-details{
+    height: 50%;
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+
+.weather-details h4{
+    background-color:white;
+    opacity: 2rem;
+    height: 50%;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    width:50%;
+    padding: 2px;
+    margin-top:2rem;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 4rem;
+    opacity: 0.7;
+    
+}
+
+.weather-details h4 p{
+  padding: 1rem;
+}
+
+
+
+
+
+.fa-cloud{
+  margin-bottom: 2rem;
+  font-size:8rem;
+  width: fit-content;
+  color: rgba(185,181,255,1);
+  opacity: 0.8;
+  margin-left: 2rem;
+}
+
+
+.grades{
+  font-size:2rem;
+  margin-bottom:0rem;
+  color:black;
+  opacity: 0.7;
+}

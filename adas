@@ -1,0 +1,17 @@
+[33mcommit fc34ca653921b1fe8250a8e44350e0536640a4cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Juan Elias Jabib <juaneliasjabib02@gmail.com>
+Date:   Mon Jun 13 02:00:24 2022 -0500
+
+    first commit
+
+[33mcommit 59d9fdb28d2c39dbde399ac6044a99daaae167ec[m
+Author: Juan Elias Jabib <juaneliasjabib02@gmail.com>
+Date:   Mon Jun 13 01:51:09 2022 -0500
+
+    version final
+
+[33mcommit dc7128434e690b4db231649d71b9e342b7b89b55[m
+Author: Juan Elias Jabib <juaneliasjabib02@gmail.com>
+Date:   Sun May 29 17:04:58 2022 -0500
+
+    Initialize project using Create React App
